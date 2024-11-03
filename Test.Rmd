@@ -29,7 +29,7 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-we can us the syntex cmd + opt(alt) + i for inserting chunks in R-markdown 
+we can us the syntax cmd + opt(alt) + i for inserting chunks in R-markdown 
 ```{r}
 View(cars)
 ```
