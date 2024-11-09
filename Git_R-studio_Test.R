@@ -23,3 +23,15 @@ y <- numeric(length(x))
 
 for (i in 1:length(x)) { y[i] <- x[i] ** 2}
  sum(y)
+
+ 
+ mean(cars[,2])
+
+ View(cars) 
+
+ cars <- cars
+ 
+ which(cars == 85) 
+?which
+  
+which(cars$dist == 85) 
